@@ -1,6 +1,6 @@
 # Value-at-Risk-calculation-methods
 
-This project implements multiple methods for calculating Value at Risk (VaR) and Expected Shortfall (ES) using EUR/PLN exchange rate data. The methodologies include:
+This project implements multiple methods for calculating Value at Risk (VaR) and Expected Shortfall (ES) using EUR/PLN exchange rate data. The analysis was conducted using R Markdown. The methodologies include:
 
 - Historical Simulation
 - Historical Simulation with Weights
